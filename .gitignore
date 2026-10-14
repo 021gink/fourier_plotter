@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 生成的转换产物（可用 main.py 重新生成；展示用资源已固化到 assets/）
+outputs/
